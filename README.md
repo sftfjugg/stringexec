@@ -8,7 +8,7 @@ Execute a command line string like a normal `exec.Cmd` object.
 package main
 
 import (
-  "github.com/mh-cbon/stringexec"
+  "github.com/sftfjugg/stringexec"
 )
 
 func main () {
